@@ -1,0 +1,10 @@
+{
+  "host" : "localhost",
+  "port" : "",
+  "maxPoolSize" : "",
+  "username" : "",
+  "password" : "",
+  "database" : "",
+  "charset" : "",
+  "queryTimeout" : ""
+}
